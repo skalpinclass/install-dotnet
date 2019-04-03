@@ -1,0 +1,2 @@
+# install-dotnet
+install dotnet
